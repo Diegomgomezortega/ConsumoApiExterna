@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoApiExterna", "ConsumoApiExterna.csproj", "{5EDDCF8B-615E-4383-BD58-673690B75690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDDCF8B-615E-4383-BD58-673690B75690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDDCF8B-615E-4383-BD58-673690B75690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDDCF8B-615E-4383-BD58-673690B75690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDDCF8B-615E-4383-BD58-673690B75690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {327EA7D5-FDED-4EB4-BB86-4310416B5A28}
+	EndGlobalSection
+EndGlobal
